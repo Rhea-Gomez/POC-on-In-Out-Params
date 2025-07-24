@@ -1,0 +1,14 @@
+D:\Training\Day2\SimplyOutput\SimplyOutput\bin\Debug\net8.0\SimplyOutput.exe
+D:\Training\Day2\SimplyOutput\SimplyOutput\bin\Debug\net8.0\SimplyOutput.deps.json
+D:\Training\Day2\SimplyOutput\SimplyOutput\bin\Debug\net8.0\SimplyOutput.runtimeconfig.json
+D:\Training\Day2\SimplyOutput\SimplyOutput\bin\Debug\net8.0\SimplyOutput.dll
+D:\Training\Day2\SimplyOutput\SimplyOutput\bin\Debug\net8.0\SimplyOutput.pdb
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.GeneratedMSBuildEditorConfig.editorconfig
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.AssemblyInfoInputs.cache
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.AssemblyInfo.cs
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.csproj.CoreCompileInputs.cache
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.dll
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\refint\SimplyOutput.dll
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.pdb
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\SimplyOutput.genruntimeconfig.cache
+D:\Training\Day2\SimplyOutput\SimplyOutput\obj\Debug\net8.0\ref\SimplyOutput.dll
